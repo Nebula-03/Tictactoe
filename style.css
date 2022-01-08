@@ -59,11 +59,11 @@ position: relative;
     transition: width 1s ease-in-out;
 }
 .info{
-    font-size: 22px;
+    font-size: 25px;
     display: flex;
     text-align: center;
     color: rgb(8, 83, 83);
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'serif;
 }
 .br-0{
     border-right: 0;
